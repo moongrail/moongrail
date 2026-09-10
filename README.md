@@ -45,10 +45,4 @@
 
 </div>
 
----
 
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=moongrail&color=blueviolet&style=flat-square)
-
-</div>
